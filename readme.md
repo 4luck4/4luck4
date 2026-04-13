@@ -92,7 +92,7 @@
 <div align="center">
 
 <a href="https://discord.com/users/4luck4">
-  <img src="https://lanyard.cnrad.dev/api/4luck4?theme=dark&bg=000000&borderRadius=10px&animated=true&hideDiscrim=true&idleMessage=Just%20chilling..." alt="Discord Profile" />
+  <img src="./assets/discord-card.svg" alt="Discord Profile" />
 </a>
 
 <br><br>
