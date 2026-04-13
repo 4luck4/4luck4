@@ -13,8 +13,6 @@
 
 </div>
 
----
-
 ## About Me
 
 <img align="right" alt="Profile" width="300" style="border-radius: 50%;" src="./assets/images/profile.png">
@@ -27,8 +25,6 @@
 - 🚀 Working On: Building the future, one commit at a time
 
 <br clear="both">
-
----
 
 ## Tech Arsenal
 
@@ -56,15 +52,11 @@
 
 </div>
 
----
-
 ## GitHub Analytics
 
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=4luck4&theme=github-dark&hide_border=true&area=true&bg_color=000000&color=ffffff&line=6366f1&point=6366f1" alt="Contribution Graph" />
 </div>
-
----
 
 ## Featured Projects
 
@@ -76,8 +68,6 @@
 
 </div>
 
----
-
 ## Let's Connect
 
 <div align="center">
@@ -88,26 +78,6 @@
 <a href="https://github.com/4luck4">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-### Random Dev Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-<br>
-
-### Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/4luck4/4luck4/output/github-contribution-grid-snake-dark.svg)
-
-<br>
-
-**⭐️ From [4luck4](https://github.com/4luck4) with 💜**
 
 </div> 
 
