@@ -4,11 +4,11 @@
 
 ### Full-Stack Developer | Creative Coder | 3D Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Building+Modern+Web+Experiences;Crafting+Interactive+3D+Worlds;Turning+Ideas+Into+Reality;Coffee+%E2%86%92+Code+%E2%86%92+Repeat+%E2%98%95" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=600&lines=Building+Modern+Web+Experiences;Crafting+Interactive+3D+Worlds;Turning+Ideas+Into+Reality;Coffee+%E2%86%92+Code+%E2%86%92+Repeat+%E2%98%95" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=4luck4&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/4luck4?style=for-the-badge&color=6366f1&labelColor=1c1917&logo=github" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=4luck4&color=000000&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/4luck4?style=for-the-badge&color=000000&labelColor=000000&logo=github" alt="Followers" />
 </p>
 
 </div>
@@ -57,7 +57,7 @@
 <img src="./assets/images/line.png" width="100%">
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=4luck4&theme=github-dark&hide_border=true&area=true&bg_color=000000&color=ffffff&line=6366f1&point=6366f1" alt="Contribution Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=4luck4&theme=github-dark&hide_border=true&area=true&bg_color=000000&color=ffffff&line=ffffff&point=ffffff" alt="Contribution Graph" />
 </div>
 
 <img src="./assets/images/line.png" width="100%">
