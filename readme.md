@@ -56,8 +56,6 @@
 
 <img src="./assets/images/line.png" width="100%">
 
-## GitHub Analytics
-
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=4luck4&theme=github-dark&hide_border=true&area=true&bg_color=000000&color=ffffff&line=6366f1&point=6366f1" alt="Contribution Graph" />
 </div>
@@ -75,8 +73,6 @@
 </div>
 
 <img src="./assets/images/line.png" width="100%">
-
-## Let's Connect
 
 <div align="center">
 
