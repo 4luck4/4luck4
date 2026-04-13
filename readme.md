@@ -15,14 +15,7 @@
 
 ## About Me
 
-<img align="right" alt="Banner" width="400" src="./assets/images/banner2.png">
-
-**Full-Stack Developer** passionate about creating modern web experiences with cutting-edge technologies.
-
-- 🌍 Location: Worldwide
-- 💻 Focus: Web Development, 3D Graphics, UI/UX
-- 📚 Currently Learning: WebGPU, Rust, AI Integration
-- 🚀 Working On: Building the future, one commit at a time
+<img src="./assets/images/banner2.png" width="100%" alt="About Me Banner">
 
 <br clear="both">
 
