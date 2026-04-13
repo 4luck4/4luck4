@@ -15,7 +15,7 @@
 
 ## About Me
 
-<img align="right" alt="Profile" width="300" style="border-radius: 50%;" src="./assets/images/profile.png">
+<img align="right" alt="Banner" width="400" src="./assets/images/banner2.png">
 
 **Full-Stack Developer** passionate about creating modern web experiences with cutting-edge technologies.
 
