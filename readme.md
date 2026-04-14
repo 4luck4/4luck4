@@ -15,10 +15,20 @@
 
 ## About Me
 
-<div align="center">
-  <h3>Full-Stack Developer passionate about creating interactive web experiences</h3>
-  <img alt="Profile" width="300" style="border-radius: 50%;" src="./assets/images/profile.gif">
-</div>
+<table align="center">
+<tr>
+<td width="50%" align="center">
+  <img alt="Profile" width="280" style="border-radius: 50%;" src="./assets/images/profile.gif">
+</td>
+<td width="50%" align="left">
+  <h3>👋 Hey there!</h3>
+  <p>I'm a passionate Full-Stack Developer who loves turning ideas into reality through code.</p>
+  <p>🎨 Specializing in creating interactive and visually stunning web experiences</p>
+  <p>🚀 Always exploring new technologies and pushing the boundaries of what's possible</p>
+  <p>💡 From elegant UIs to robust backends, I enjoy every aspect of development</p>
+</td>
+</tr>
+</table>
 
 <br clear="both">
 
