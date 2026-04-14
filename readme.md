@@ -34,12 +34,12 @@
 ## About Me
 
 <div align="center">
-  <img src="./assets/code-window.svg" width="90%" alt="About Me Code Window" />
+  <img src="./assets/code-window.svg?v=1" width="90%" alt="About Me Code Window" />
 </div>
 
 <br clear="both">
 
-<img src="./assets/snow-line.svg" width="100%">
+<img src="./assets/snow-line.svg?v=1" width="100%">
 
 <div align="center">
 
