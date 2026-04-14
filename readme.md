@@ -27,7 +27,7 @@
 
 </div>
 
-## About Me
+<img src="./assets/images/line.png" width="100%">
 
 <div align="center">
   <img src="./assets/images/code-window.png?v=1" width="90%" alt="About Me Code Window" />
