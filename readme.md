@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-card.svg?v=2" width="90%" alt="Profile Card" />
+<img src="./assets/profile-card.svg?v=3" width="90%" alt="Profile Card" />
 
 <br/>
 
