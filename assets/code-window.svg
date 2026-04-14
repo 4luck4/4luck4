@@ -62,8 +62,8 @@
   
   <!-- Line 3 -->
   <text x="65" y="125" class="code-text variable">role:</text>
-  <text x="135" y="125" class="code-text string">"Full-Stack Developer"</text>
-  <text x="345" y="125" class="code-text variable">,</text>
+  <text x="135" y="125" class="code-text string">"Full-Stack &amp; Bot Developer"</text>
+  <text x="395" y="125" class="code-text variable">,</text>
   
   <!-- Line 4 -->
   <text x="65" y="150" class="code-text variable">passion:</text>
@@ -82,7 +82,7 @@
   
   <!-- Line 6 -->
   <text x="65" y="200" class="code-text variable">currentFocus:</text>
-  <text x="205" y="200" class="code-text string">"WebGL &amp; 3D Graphics"</text>
+  <text x="205" y="200" class="code-text string">"Backend &amp; Automation"</text>
   <text x="405" y="200" class="code-text variable">,</text>
   
   <!-- Line 7 -->
@@ -92,8 +92,8 @@
   
   <!-- Line 8 -->
   <text x="65" y="250" class="code-text variable">coffee:</text>
-  <text x="145" y="250" class="code-text string">"☕ Always"</text>
-  <text x="265" y="250" class="code-text variable">,</text>
+  <text x="145" y="250" class="code-text string">"Always"</text>
+  <text x="235" y="250" class="code-text variable">,</text>
   
   <!-- Line 9 -->
   <text x="65" y="275" class="code-text function">code</text>
@@ -108,7 +108,7 @@
   <!-- Line 11 (empty) -->
   
   <!-- Line 12 -->
-  <text x="45" y="350" class="code-text comment">// Let's build something amazing together! 🚀</text>
+  <text x="45" y="350" class="code-text comment">// discord.gg/4luck4</text>
   
   <!-- Cursor blink animation -->
   <rect x="485" y="260" width="10" height="18" fill="#eccf9f">

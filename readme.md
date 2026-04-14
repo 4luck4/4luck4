@@ -10,17 +10,17 @@
 <img src="https://img.shields.io/badge/Full--Stack-Developer-a45939?style=for-the-badge&labelColor=412521" />
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/Creative-Coder-eccf9f?style=for-the-badge&labelColor=a45939&logoColor=412521" />
+<img src="https://img.shields.io/badge/Bot-Developer-eccf9f?style=for-the-badge&labelColor=a45939&logoColor=412521" />
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/3D-Enthusiast-412521?style=for-the-badge&labelColor=eccf9f&logoColor=412521" />
+<img src="https://img.shields.io/badge/Creative-Coder-412521?style=for-the-badge&labelColor=eccf9f&logoColor=412521" />
 </td>
 </tr>
 </table>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=a45939&center=true&vCenter=true&random=false&width=600&lines=Saya+no+Uta+%F0%9F%8C%B8;Debugging+is+like+being+a+detective;In+a+crime+movie+where+you're+also+the+murderer;There+are+10+types+of+people...;Those+who+understand+binary+and+those+who+don't;404%3A+Motivation+Not+Found" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=a45939&center=true&vCenter=true&random=false&width=600&lines=Saya+no+Uta;Debugging+is+like+being+a+detective;In+a+crime+movie+where+you're+also+the+murderer;There+are+10+types+of+people...;Those+who+understand+binary+and+those+who+don't;404%3A+Motivation+Not+Found" alt="Typing SVG" />
 
 <br/>
 
@@ -50,13 +50,12 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-eccf9f?style=for-the-badge&logo=tailwind-css&logoColor=412521)
 ![Redux](https://img.shields.io/badge/Redux-a45939?style=for-the-badge&logo=redux&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer-412521?style=for-the-badge&logo=framer&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-eccf9f?style=for-the-badge&logo=three.js&logoColor=412521)
-![WebGL](https://img.shields.io/badge/WebGL-a45939?style=for-the-badge&logo=webgl&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-412521?style=for-the-badge&logo=greensock&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-eccf9f?style=for-the-badge&logo=nodedotjs&logoColor=412521)
 ![Express](https://img.shields.io/badge/Express-a45939?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-412521?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-eccf9f?style=for-the-badge&logo=postgresql&logoColor=412521)
+![Discord.js](https://img.shields.io/badge/Discord.js-a45939?style=for-the-badge&logo=discord&logoColor=white)
+![Python](https://img.shields.io/badge/Python-412521?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
