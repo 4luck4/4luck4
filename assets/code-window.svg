@@ -34,6 +34,9 @@
   <!-- File name -->
   <text x="400" y="23" text-anchor="middle" fill="#eccf9f" font-family="'Courier New', monospace" font-size="14">about-me.js</text>
   
+  <!-- Character image in top right -->
+  <image href="./images/lol.png" x="600" y="50" width="180" height="180" opacity="0.9"/>
+  
   <!-- Line numbers -->
   <text x="15" y="75" fill="#6a6a6a" font-family="'Courier New', monospace" font-size="14">1</text>
   <text x="15" y="100" fill="#6a6a6a" font-family="'Courier New', monospace" font-size="14">2</text>
