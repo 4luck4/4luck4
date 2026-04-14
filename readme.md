@@ -75,7 +75,7 @@
 
 <div align="center">
 
-<a href="https://discord.com/users/4luck4">
+<a href="https://discord.com/users/994992838435672124">
   <img src="https://img.shields.io/badge/Discord-412521?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 </a>
 <a href="https://github.com/4luck4">
