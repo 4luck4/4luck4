@@ -18,11 +18,11 @@
   <line x1="200" y1="50" x2="200" y2="150" stroke="#412521" stroke-width="2"/>
   
   <!-- Name -->
-  <text x="230" y="70" fill="#eccf9f" font-size="32" font-weight="700" font-family="'Segoe UI', sans-serif">4luck4</text>
+  <text x="230" y="60" fill="#eccf9f" font-size="32" font-weight="700" font-family="'Segoe UI', sans-serif">4luck4</text>
+  <text x="230" y="85" fill="#6a6a6a" font-size="16" font-family="'Segoe UI', sans-serif">@4luck4</text>
   
   <!-- Roles -->
-  <text x="230" y="105" fill="#a45939" font-size="18" font-weight="600" font-family="'Segoe UI', sans-serif">Full-Stack Developer</text>
-  <text x="230" y="130" fill="#eccf9f" font-size="16" font-family="'Segoe UI', sans-serif">Bot Developer • Creative Coder</text>
+  <text x="230" y="115" fill="#a45939" font-size="18" font-weight="600" font-family="'Segoe UI', sans-serif">Full-Stack Developer • Bot Developer</text>
   
   <!-- Stats -->
   <rect x="230" y="145" width="120" height="30" rx="5" fill="#412521"/>
