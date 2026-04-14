@@ -73,13 +73,13 @@
   
   <!-- Line 5 -->
   <text x="65" y="175" class="code-text variable">favoriteThing:</text>
-  <text x="195" y="175" class="code-text string">"I love donuts"</text>
-  <text x="335" y="175" class="code-text variable">,</text>
+  <text x="205" y="175" class="code-text string">"I love donuts"</text>
+  <text x="345" y="175" class="code-text variable">,</text>
   
   <!-- Line 6 -->
   <text x="65" y="200" class="code-text variable">currentFocus:</text>
-  <text x="205" y="200" class="code-text string">"Backend &amp; Automation"</text>
-  <text x="405" y="200" class="code-text variable">,</text>
+  <text x="215" y="200" class="code-text string">"Backend &amp; Automation"</text>
+  <text x="425" y="200" class="code-text variable">,</text>
   
   <!-- Line 7 -->
   <text x="65" y="225" class="code-text variable">learning:</text>
