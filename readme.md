@@ -7,8 +7,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=600&lines=Saya+no+Uta+%F0%9F%8C%B8;Debugging+is+like+being+a+detective;In+a+crime+movie+where+you're+also+the+murderer;There+are+10+types+of+people...;Those+who+understand+binary+and+those+who+don't;404%3A+Motivation+Not+Found" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=4luck4&color=000000&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/4luck4?style=for-the-badge&color=000000&labelColor=000000&logo=github" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=4luck4&color=412521&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/4luck4?style=for-the-badge&color=a45939&labelColor=eccf9f&logo=github" alt="Followers" />
 </p>
 
 </div>
@@ -56,7 +56,7 @@
 <img src="./assets/images/line.png" width="100%">
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=4luck4&theme=github-dark&hide_border=true&area=true&bg_color=000000&color=ffffff&line=ffffff&point=ffffff" alt="Contribution Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=4luck4&theme=github-dark&hide_border=true&area=true&bg_color=412521&color=eccf9f&line=a45939&point=eccf9f" alt="Contribution Graph" />
 </div>
 
 <img src="./assets/images/line.png" width="100%">
@@ -74,10 +74,10 @@
 <div align="center">
 
 <a href="https://discord.com/users/4luck4">
-  <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  <img src="https://img.shields.io/badge/Discord-412521?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 </a>
 <a href="https://github.com/4luck4">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-a45939?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 </div> 
