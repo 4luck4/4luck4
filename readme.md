@@ -2,13 +2,16 @@
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="25%">
+<img src="./assets/images/profile.gif" width="150" style="border-radius: 50%;" alt="Profile" />
+</td>
+<td align="center" width="25%">
 <img src="https://img.shields.io/badge/Full--Stack-Developer-a45939?style=for-the-badge&labelColor=412521" />
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 <img src="https://img.shields.io/badge/Bot-Developer-eccf9f?style=for-the-badge&labelColor=a45939&logoColor=412521" />
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 <img src="https://img.shields.io/badge/Creative-Coder-412521?style=for-the-badge&labelColor=eccf9f&logoColor=412521" />
 </td>
 </tr>
